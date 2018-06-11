@@ -1,0 +1,5 @@
+
+[user]
+	name = Guido de Vries
+	email = g.devr007@gmail.com
+	username = PhaseRekt
